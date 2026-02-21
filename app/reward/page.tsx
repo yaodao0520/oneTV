@@ -12,7 +12,7 @@ export default function RewardPage() {
         {
             id: 'wechat',
             name: '微信',
-            image: '/wechat_reward.png',
+            image: '/wx.png',
             description: '使用微信扫码打赏'
         },
         {
