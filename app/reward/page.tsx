@@ -12,13 +12,13 @@ export default function RewardPage() {
         {
             id: 'wechat',
             name: '微信',
-            image: 'https://5f4480c.webp.li/2025/04/83427cf17e1bf1874c5e391df35f1c9a.png',
+            image: '/wechat_reward.png',
             description: '使用微信扫码打赏'
         },
         {
             id: 'alipay',
             name: '支付宝',
-            image: 'https://5f4480c.webp.li/2025/04/3046cde05fab442e147234ec503ea9ee.png',
+            image: '/alipay_reward.png',
             description: '使用支付宝扫码打赏'
         }
     ];
